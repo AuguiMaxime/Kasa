@@ -1,6 +1,6 @@
 import {Link} from "react-router-dom";
 
- function Notfound () {
+ function NotFound () {
   return (
     <div className="error">
       <h3>404</h3>
