@@ -1,4 +1,4 @@
-import background from "./assets/Background-home.png";
+import background from "./Assets/Background-home.png";
 
 
 const BannerHome = () => {
