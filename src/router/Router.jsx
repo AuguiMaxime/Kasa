@@ -3,7 +3,7 @@ import Layout from '../pages/Layout';
 import Home from '../pages/Home';
 import About from '../pages/About';
 import Logement from '../pages/Logement';
-import NotFound from '../pages/NotFound';
+import NotFound from '../pages/Notfound';
 
 const Router = () => (
   <Routes>
