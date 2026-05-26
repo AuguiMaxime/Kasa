@@ -101,7 +101,7 @@ Kasa/
 
 ## 🌐 Démo
 
-> 🔗 [Voir la démo en ligne](https://kasa-augui-maxime.vercel.app) *(à mettre à jour après déploiement)*
+ 🔗 [Voir la démo en ligne](https://kasa-green-xi.vercel.app)
 
 ## 📝 Notes de développement
 
