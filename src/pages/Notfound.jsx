@@ -13,4 +13,4 @@ import {Link} from "react-router-dom";
  )
 }
  
-export default Notfound;
+export default NotFound;
