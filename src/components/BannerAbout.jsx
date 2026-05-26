@@ -1,4 +1,4 @@
-import BackgroundAbout from "../components/assets/Background-about.png";
+import BackgroundAbout from "../components/Assets/Background-about.png";
 
 
 const BannerHome = () => {
