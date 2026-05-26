@@ -1,6 +1,6 @@
 
-import Next from "./assets/suivant.png";
-import Previous from "./assets/precedent.png";
+import Next from "./Assets/suivant.png";
+import Previous from "./Assets/precedent.png";
 import React, { useState } from 'react';
 
 
